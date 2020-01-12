@@ -1,0 +1,11 @@
+Bonjour;
+
+C'est BAICH Mohammed Amine
+et OUDJEDI DAMERDJI Faiza.
+
+Du groupe G6
+3eme année licence Informatique.
+
+Ce projet (Mon Ananalyseur lexical, syntaxique et sémantique)
+a été développé avec l'editeur Netbeans sous JAVA.
+
